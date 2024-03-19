@@ -1,0 +1,16 @@
+D:\guladis c#\calculatorBliaaaa\bin\Debug\net6.0-windows\calculatorBliaaaa.exe
+D:\guladis c#\calculatorBliaaaa\bin\Debug\net6.0-windows\calculatorBliaaaa.deps.json
+D:\guladis c#\calculatorBliaaaa\bin\Debug\net6.0-windows\calculatorBliaaaa.runtimeconfig.json
+D:\guladis c#\calculatorBliaaaa\bin\Debug\net6.0-windows\calculatorBliaaaa.dll
+D:\guladis c#\calculatorBliaaaa\bin\Debug\net6.0-windows\calculatorBliaaaa.pdb
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\calculatorBliaaaa.Form1.resources
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\calculatorBliaaaa.csproj.GenerateResource.cache
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\calculatorBliaaaa.GeneratedMSBuildEditorConfig.editorconfig
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\calculatorBliaaaa.AssemblyInfoInputs.cache
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\calculatorBliaaaa.AssemblyInfo.cs
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\calculatorBliaaaa.csproj.CoreCompileInputs.cache
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\calculatorBliaaaa.dll
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\refint\calculatorBliaaaa.dll
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\calculatorBliaaaa.pdb
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\calculatorBliaaaa.genruntimeconfig.cache
+D:\guladis c#\calculatorBliaaaa\obj\Debug\net6.0-windows\ref\calculatorBliaaaa.dll
